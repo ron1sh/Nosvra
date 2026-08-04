@@ -38,6 +38,21 @@ export const socials: SocialLink[] = [
     href: "https://www.instagram.com/nosvra/",
     handle: "@nosvra",
   }, // SAMPLE
+  {
+    label: "X",
+    href: "https://x.com/nosvra",
+    handle: "@nosvra",
+  },
+  {
+    label: "Facebook",
+    href: "https://www.facebook.com/nosvra",
+    handle: "@nosvra",
+  }, // SAMPLE — replace with real Facebook page URL
+  {
+    label: "LinkedIn",
+    href: "https://www.linkedin.com/company/nosvra",
+    handle: "@nosvra",
+  }, // SAMPLE — replace with real LinkedIn page URL
 ];
 
 /**
